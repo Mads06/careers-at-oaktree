@@ -1,12 +1,31 @@
-# careers-at-oaktree
-Official hiring repository for Oak Tree Software Private Limited. Explore open roles, learn about our culture, and apply to join our team.
+<p align="center">
+  <img src="assets/logo.png" alt="Oak Tree Software Logo" width="180"/>
+</p>
 
-# 🌳 Careers at Oak Tree Software
+🌳 Careers at Oak Tree Software
 
-Welcome to our official hiring repository! We're building a team of passionate professionals in Indore to deliver cutting-edge IT solutions.
+Welcome to Oak Tree Software’s official hiring repository! We're a **vision-driven software, app, and Salesforce development company** based in **Indore**, committed to delivering customer-winning solutions across the digital landscape.
 
-## 📌 Open Positions
-Explore detailed role descriptions in the [`open-positions`](open-positions/) folder.
+🚀 Who We Are
+
+We’re a crew of passionate technophiles, coders, and creatives who:
+- Transform businesses from **Zero to Hero**
+- Deliver **Salesforce-powered automation** and **cutting-edge tech solutions**
+- Thrive on **innovation**, **client satisfaction**, and **out-of-the-box thinking**
+
+With over **200+ successful projects**, especially in Salesforce, we’ve become a recognized name in the development space.
+
+🧠 What We Do
+
+- Salesforce Development (Service Cloud, Marketing Cloud, Sales Cloud)
+- Full-Stack & Web Development (MERN, RoR, React Native)
+- Mobile App Development (Flutter, React Native)
+- Heroku Cloud Solutions
+- Custom Software Solutions
+
+📌 Open Positions
+
+Explore detailed role descriptions in the [`open-positions`](open-positions/) folder:
 
 - BDE – IT
 - BDM – IT (B2B & B2C)
@@ -16,11 +35,19 @@ Explore detailed role descriptions in the [`open-positions`](open-positions/) fo
 - React Native Developer
 - MERN Stack Lead
 
-📍 Location: Indore  
-📩 Apply via email:  
+📍 **Location:** Indore  
+📩 **Apply via email:**  
 gracy.belani@oaktreecloud.com  
 darshana.gupta@oaktreecloud.com
 
-📣 Learn more about our [culture](company-info/culture.md) and [how to apply](how-to-apply.md).
+💬 Want to Know More?
 
-Feel free to start a [Discussion](https://github.com/YOUR_USERNAME/oak-tree-careers/discussions) if you have questions!
+- Learn about our [culture](company-info/culture.md)
+- Understand [how to apply](how-to-apply.md)
+- Start a [Discussion](https://github.com/YOUR_USERNAME/oak-tree-careers/discussions) to connect with us
+
+---
+
+> “We don’t build a client list—we build a community of partners invested in each other’s success.”
+
+#JoinUs #OakTreeSoftware #TechCareers #IndoreJobs #Salesforce #MERN #Flutter #ReactNative #RoR #Hiring #Innovation
