@@ -39,6 +39,8 @@ Explore detailed role descriptions in the [`open-positions`](open-positions/) fo
 📩 **Apply via email:**  
 gracy.belani@oaktreecloud.com  
 darshana.gupta@oaktreecloud.com
+shikha.kothari@oaktreecloud.com
+hariom.bisopia@oaktreecloud.com
 
 💬 Want to Know More?
 
